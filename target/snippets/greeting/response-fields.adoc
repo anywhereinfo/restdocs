@@ -1,0 +1,12 @@
+|===
+|Path|Type|Description
+
+|`+id+`
+|`+Number+`
+|Greeting Identifier - Mandatory field
+
+|`+content+`
+|`+String+`
+|Greeting Message - Optional field
+
+|===

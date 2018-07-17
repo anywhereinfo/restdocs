@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"id":2,"content":"Hello, Spring Community!"}
+----

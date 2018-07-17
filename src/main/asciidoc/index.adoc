@@ -1,0 +1,18 @@
+= Greeting API
+
+This is an example output for a service running at http://localhost:8080:
+
+.Request 
+include::{snippets}/greeting/http-request.adoc[]
+
+.Request Parameters
+include::{snippets}/greeting/request-parameters.adoc[]
+
+.Response
+include::{snippets}/greeting/http-response.adoc[]
+
+.Response Fields
+include::{snippets}/greeting/response-fields.adoc[]
+
+.response-body
+include::{snippets}/greeting/response-body.adoc[]
